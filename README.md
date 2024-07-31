@@ -1,6 +1,3 @@
-Sure, here's a README file for the provided code:
-
----
 
 # Video Processing and Deposition Analysis
 
